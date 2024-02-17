@@ -1,14 +1,16 @@
 # Primer Laboratorio 👨‍💻👨‍💻👨‍💻
 _Este repositorio contiene la Wiki del Primer laboratorio para la clase de Redes y Comunicación de Datos. En este Repositorio encontrará la solución propuesta para la creación de una red hogar utilizando el software de Cisco Packet Tracer._
 
-## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+## Autores ✒️
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+* **Santiago Gavilán** - *Estudiante de Ingeniería Informática * - [Gavilan](#juanito-perez)
 
+  
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
-### Pre-requisitos 📋
+## Licencia 📄
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+Este proyecto está bajo la Licencia (MIT License) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+
 
