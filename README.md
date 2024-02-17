@@ -4,7 +4,7 @@ _Este repositorio contiene la Wiki del Primer laboratorio para la clase de Redes
 
 ## Autores ✒️
 
-* **Santiago Gavilán** - *Estudiante de Ingeniería Informática * - [Gavilan](#juanito-perez)
+* **Santiago Gavilán** - *Estudiante de Ingeniería Informática * - [Gavilan](#Gavilan-S)
 
   
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
